@@ -8,7 +8,7 @@ International License][cc-by-nc-sa].
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # TR Christmas Props 2024
-6 Props for christmas 2024 Edition
+7 Props for christmas 2024 Edition
 
 ## About This Resource
 Props for FiveM (Christmas Related)
