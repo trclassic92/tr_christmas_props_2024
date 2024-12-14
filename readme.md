@@ -14,7 +14,7 @@ International License][cc-by-nc-sa].
 Props for FiveM (Christmas Related)
 
 ## Docs 
-- [GitBook](https://trclassic.gitbook.io/trclassic/christmas_props_2024)
+- [GitBook](https://trclassic.gitbook.io/trclassic/christmas-props)
 
 ## Discord
 - [Join Discord](https://discord.gg/T2xX5WwmEX)
